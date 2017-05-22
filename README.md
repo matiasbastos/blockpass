@@ -21,8 +21,6 @@ Blockpass is currently under initial development. If you would like to contribut
 * [ ] [Whitepaper](https://github.com/blockpass/blockpass/wiki/Whitepaper)
 * [ ] Smart Contracts
 * [ ] Proof of concept DApp
-* [ ] [Token](https://github.com/blockpass/token)
-* [ ] Crowdsale
 
 ## License
 
