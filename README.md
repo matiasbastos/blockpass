@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://blockpass.herokuapp.com"><img src="https://blockpass.herokuapp.com/badge.svg"></a>
   <a href="https://raw.githubusercontent.com/blockpass/blockpass/master/LICENSE"><img src="http://img.shields.io/badge/license-mit-blue.svg"></a>
-  <a href="https://twitter.com/blockpassdapp"><img src="https://img.shields.io/badge/twitter-%40blockpass-blue.svg"></a>
+  <a href="https://twitter.com/blockpassdapp"><img src="https://img.shields.io/badge/twitter-%40blockpassdapp-blue.svg"></a>
   <a href="#donate"><img src="https://img.shields.io/badge/donate-bitcoin-yellow.svg"></a>
 </p>
 
